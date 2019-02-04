@@ -14,6 +14,9 @@ $(document).ready(function(){
     $("#card3-init, #card-3").slideToggle();
   });
 
+  $("#card4-init, #card-4").click(function(){
+    $("#card4-init, #card-4").slideToggle();
+  });
 
 
 });
